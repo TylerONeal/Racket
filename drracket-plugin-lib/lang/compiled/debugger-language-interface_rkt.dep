@@ -1,0 +1,1 @@
+("7.2" racket ("f12aa349ad36c523d015306324c74487b831861e" . "bcfa9be5af640c71ed1b08fdca9fe4b852e72797") (collects #"mzlib" #"class.rkt") (collects #"mzscheme" #"main.rkt"))

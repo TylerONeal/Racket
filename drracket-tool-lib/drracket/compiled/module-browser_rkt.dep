@@ -1,0 +1,1 @@
+("7.2" racket ("f3420d35bff3dc77db8170cffb3a6b5257f427e4" . "05069349b5ddd49b3f7442431edd5238dd1df52a") (collects #"drracket" #"private" #"standalone-module-browser.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))
